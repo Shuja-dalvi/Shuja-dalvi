@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Shuja Mukhtar Dalvi 👋
 
-<!--
-**Shuja-dalvi/Shuja-dalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Cybersecurity Learner
 
-Here are some ideas to get you started:
+🔐 Interested in Penetration Testing, Offensive Security and Security Operations (SOC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building practical cybersecurity skills through hands-on labs, technical projects and continuous learning.
+
+## 🛠️ Technical Skills
+
+- **Security Tools:** Nmap, Wireshark, Burp Suite, Metasploit, pfSense
+- **Operating Systems:** Linux, Windows
+- **Programming:** Python, PHP, SQL
+- **Networking:** TCP/IP, DNS, HTTP/HTTPS, VPN fundamentals
+- **Learning Platforms:** TryHackMe, Hack The Box
+
+## 🚀 Projects
+
+### Secure Remote Access Solution
+Working on a practical project using pfSense and OpenVPN to explore secure remote connectivity, VPN configuration and firewall security.
+
+### Cybersecurity Reconnaissance
+Learning and documenting reconnaissance techniques using Nmap, Wireshark, Netcat, Shodan and hping3.
+
+## 📚 Currently Learning
+
+- Network security and enumeration
+- Web application security
+- Penetration testing methodologies
+- SOC operations and incident response
+- Python for cybersecurity
+
+## 🎯 Career Goals
+
+To develop strong practical skills in offensive and defensive cybersecurity and build a career in the cybersecurity industry.
+
+## 🤝 Connect With Me
+
+- LinkedIn: Coming soon
+
+---
+
+*Learning, building and documenting my cybersecurity journey.*
