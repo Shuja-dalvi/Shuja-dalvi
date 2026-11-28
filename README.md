@@ -22,6 +22,10 @@ Working on a practical project using pfSense and OpenVPN to explore secure remot
 ### Cybersecurity Reconnaissance
 Learning and documenting reconnaissance techniques using Nmap, Wireshark, Netcat, Shodan and hping3.
 
+### Network Traffic Analysis – Wireshark
+
+Performing practical network traffic analysis using Wireshark. Capturing and examining network packets, identifying protocols, analysing DNS queries and documenting network traffic observations.
+
 ## 📚 Currently Learning
 
 - Network security and enumeration
